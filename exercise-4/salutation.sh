@@ -3,4 +3,5 @@ if [ $# = 2 ]
 echo "Hello $2 $1, have a nice day !"
  else
 echo "Syntaxe : $0 firstname surname"
+return 1;
 fi 
