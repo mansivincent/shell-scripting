@@ -1,1 +1,1 @@
-L'exercice n°3 à le meme prince  que la section d'avant, mais pour déterminer la nature du paramètre (fichier ou dossier),cependant si il y a plus d'un argument  cela va prendre en compte que le premier.
+L'exercice n°3 à le meme principe  que la section d'avant, mais pour déterminer la nature du paramètre (fichier ou dossier),cependant si il y a plus d'un argument  cela va prendre en compte que le premier.
